@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_zenltetmo.mk
+    $(LOCAL_DIR)/aosp_zenltetmo.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_zenltetmo-user \
-    lineage_zenltetmo-userdebug \
-    lineage_zenltetmo-eng
+    aosp_zenltetmo-user \
+    aosp_zenltetmo-userdebug \
+    aosp_zenltetmo-eng
